@@ -1,0 +1,28 @@
+
+DERMSCAN AI - ANALYSIS REPORT
+Generated on: 3/24/2026, 7:09:13 PM
+User: m
+
+CONDITION: Melanoma (Amelanotic or Hypomelanotic)
+CONFIDENCE: 70%
+URGENCY: High
+
+DESCRIPTION:
+The dermoscopic image shows an atypical skin lesion with significant asymmetry and irregular borders. The presence of variegated colors including pink, white (potentially representing regression), and light brown, along with the lack of a regular pigment network, are clinical red flags for melanoma, a serious form of skin cancer.
+
+SYMPTOMS:
+- Asymmetrical lesion shape
+- Irregular or poorly defined borders
+- Multiple colors within a single spot (pink, white, brown)
+- Change in size, shape, or color over time
+- Possible itching or tenderness
+
+RECOMMENDATIONS:
+- Consult a dermatologist immediately for a professional examination
+- Expect a diagnostic skin biopsy to confirm the nature of the lesion
+- Monitor the area closely for any rapid changes
+- Perform a full-body skin check to identify other suspicious moles
+
+DISCLAIMER:
+This analysis is for informational purposes only and does not constitute medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have seen here.
+    

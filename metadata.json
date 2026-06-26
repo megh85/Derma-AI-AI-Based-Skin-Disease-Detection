@@ -1,0 +1,5 @@
+{
+  "name": "DermScan AI",
+  "description": "AI-powered skin condition analysis and detection system using advanced image recognition.",
+  "requestFramePermissions": ["geolocation"]
+}
